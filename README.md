@@ -36,7 +36,7 @@ Project Website
         <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/space/planet.png" height ="140">
         
         <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/avatars/aqualine-sapling.png" height ="140">
-        <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/space/star.png"height="140">
+ 
         
         <h2>List of Things 2 Do</h2>
         
