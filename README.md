@@ -44,6 +44,7 @@ Project Website
             <li>Go scubadiving!</li> 
             <li>Go surfing!</li> 
             <li>Try new restaraunts!!</li> 
+            <li>Go Hiking</li>
         </ul>
         <h3>List of Places 2 Go</h3>
         <li>Waikiki Beach, Honolulu</li> 
